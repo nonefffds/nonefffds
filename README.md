@@ -13,10 +13,7 @@
 
 ### Something else
 
-- Build myself some sites, [this](https://brunhild.cn/nonefffds) is now working, it's a redirection site I wrote myself and published [here](https://github.com/nonefffds/RedirectionPageTemplate). Hosting with ZZidc(CHN), Tencent Cloud(CHN), Bandwagon Host(USA), Vultr(JPN)
-- You can reach me using the link above
-
-- [Blog](https://nonefffds.github.io)
+- Build myself some sites, [this](https://brunhild.cn/nonefffds) is now working, it's a redirection site I wrote myself and published [here](https://github.com/nonefffds/RedirectionPageTemplate). And my blog is [here](https://nonefffds.github.io).
 
 - There's almost no correct pronounciation with this nickname 'nonefffds', just pronounce whatever you'd perfer.
 
