@@ -14,8 +14,6 @@
 
 ### Something else
 
-- I used to made a redirection site(basically mocked linktree) I wrote myself and published [here](https://github.com/nonefffds/RedirectionPageTemplate). And my blog is [here](https://nonefffds.github.io).
-
 - There's almost no correct pronounciation with this nickname 'nonefffds', just pronounce whatever you'd perfer. Or just call me as "FDS".
 
 - The avatar is Cyanobacteria.
