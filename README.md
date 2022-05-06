@@ -2,7 +2,7 @@
 
 ### About me
 
-- Currently studying @ `HAUT(Henan University of Technology), Architecture Department`， School Year 2 out of 5.
+- Currently studying @ `HAUT(Henan University of Technology), School of Architecture`， School Year 2 out of 5.
 - The architechture is NOT referred to the `Computer Architecture`(such as IA-64), but the profession one;
 - Therefore, I would not spending too much time on coding.
 
