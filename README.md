@@ -8,7 +8,7 @@
 
 - Learning and writing `Python`, `HTML & CSS`, `AppleScript`, `Shell Script`, `JavaScript` code (snippets) right now
 
-- Having interests in `Backend Technology`, `Embedded Development`, `NLP`
+- Having interests in `Frontend Technology`, `NLP`
 
 - Respberry Pi 3B+ owner, never use it well.
 
