@@ -6,7 +6,7 @@
 - The architechture is NOT referred to the `Computer Architecture`(such as IA-64), but the profession one;
 - Therefore, I would not spending too much time on coding.
 
-- Learning and writing `Python`, `HTML & CSS`, `AppleScript`, `Shell Script`, `JavaScript` code (snippets) right now
+- Learning and writing `Python`, `HTML & CSS`, `AppleScript`, `Shell Script`, `JavaScript`, `vue.js` code (snippets) right now
 
 - Having interests in `Frontend Technology`, `NLP`
 
