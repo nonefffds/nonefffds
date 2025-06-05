@@ -2,19 +2,19 @@
 
 ### About me
 
-- B. Arch @ `Henan University of Technology, School of Architecture` (2020-2025)
+- Bachelor of Architecture @ `Henan University of Technology, School of Architecture` (2020-2025)
 
-https://haut.edu.cn
+https://tj.haut.edu.cn
 
 - Indie work @ Indie Art Label [@MPAMLab](https://github.com/mpamlab) `MPAM Laboratory` (2019-now)
 
 https://mpam-lab.xyz
 
-- Co-founder @ Rhythm Game Host [@fish-cave](https://github.com/fish-cave) `Shallow Rhythm Studio` (2024-2025)
+- Ex Co-founder / Manager @ Rhythm Game Host [@fish-cave](https://github.com/fish-cave) `Shallow Rhythm Studio` (2024-2025)
 
 https://fishcave.cn
 
-- DoP / TD / Scr. @ `NGU Team` (2024-2025)
+- Director of Photography / Technical Director / Screenwriter @ `NGU Team` (2024-2025)
 
 https://ngu2nd.mpam-lab.xyz
 
