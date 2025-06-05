@@ -2,9 +2,9 @@
 
 ### About me
 
-- Bachelor of Architecture @ `Henan University of Technology, School of Architecture` (2020-2025)
+- Bachelor of Architecture @ `Henan University of Technology, Department of Architecture` (2020-2025)
 
-https://tj.haut.edu.cn
+[https://tj.haut.edu.cn](https://tj.haut.edu.cn/pgzt/jzxzypg/wzsy.htm)
 
 - Indie work @ Indie Art Label [@MPAMLab](https://github.com/mpamlab) `MPAM Laboratory` (2019-now)
 
