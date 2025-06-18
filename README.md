@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+more about me: [https://fds.srt.pub](https://fds.srt.pub)
+
 ### About me
 
 - Bachelor of Architecture @ `Henan University of Technology, Department of Architecture` (2020-2025)
@@ -10,7 +12,7 @@
 
 https://mpam-lab.xyz
 
-- Ex Co-founder / Manager @ Rhythm Game Host [@fish-cave](https://github.com/fish-cave) `Shallow Rhythm Studio` (2024-2025)
+- Co-founder / Manager @ Rhythm Game Hub [@fish-cave](https://github.com/fish-cave) `Shallow Rhythm Studio` (2024-2025)
 
 https://fishcave.cn
 
