@@ -12,7 +12,7 @@ more about me: [https://fds.srt.pub](https://fds.srt.pub)
 
 https://mpam-lab.xyz
 
-- Co-founder / Manager @ Rhythm Game Hub [@fish-cave](https://github.com/fish-cave) `Shallow Rhythm Studio` (2024-2025)
+- Co-founder / Manager / Core Designer / Dev Team Leader @ Rhythm Game Hub [@fish-cave](https://github.com/fish-cave) `Shallow Rhythm Studio` (2024-2025)
 
 https://fishcave.cn
 
@@ -21,6 +21,8 @@ https://fishcave.cn
 https://ngu2nd.mpam-lab.xyz
 
 https://ngu3rd.mpam-lab.xyz
+
+- an ordinary office worker @ a trade company, Tianjin, China (2025-now)
 
 ### Something else
 
