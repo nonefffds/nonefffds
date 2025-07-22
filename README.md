@@ -18,6 +18,8 @@ https://fishcave.cn
 
 - Director of Photography / Technical Director / Screenwriter @ `NGU Team` (2024-2025)
 
+Works are on behalf of the MPAM Laboratory.
+
 https://ngu2nd.mpam-lab.xyz
 
 https://ngu3rd.mpam-lab.xyz
