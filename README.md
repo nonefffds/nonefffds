@@ -8,7 +8,7 @@ more about me: [https://fds.srt.pub](https://fds.srt.pub)
 
 [https://tj.haut.edu.cn](https://tj.haut.edu.cn/pgzt/jzxzypg/wzsy.htm)
 
-- Indie work (Event Producing / Technical Director) @ Indie Art Label [@MPAMLab](https://github.com/mpamlab) `MPAM Laboratory` (2019-now)
+- Indie work (Event Producing / Technical Support) @ Indie Art Label [@MPAMLab](https://github.com/mpamlab) `MPAM Laboratory` (2019-now)
 
 https://mpam-lab.xyz
 
