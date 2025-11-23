@@ -12,11 +12,11 @@ more about me: [https://fds.srt.pub](https://fds.srt.pub)
 
 https://mpam-lab.xyz
 
-- Co-founder / Technical Director / Core Designer @ Rhythm Game Hub [@fish-cave](https://github.com/fish-cave) `Shallow Rhythm Studio` (2024-2025)
+- Co-founder / Project Manager @ Rhythm Game Hub [@fish-cave](https://github.com/fish-cave) `Shallow Rhythm Studio` (2024-)
 
 https://fishcave.cn
 
-- Director of Photography / Technical Director / Screenwriter @ `NGU Team` (2024-2025)
+- Director of Photography / Technical Director / Screenwriter / Co-Producer @ `NGU Team` (2024-)
 
 Works are on behalf of the MPAM Laboratory.
 
