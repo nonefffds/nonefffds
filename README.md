@@ -2,6 +2,10 @@
 
 more about me: [https://fds.srt.pub](https://fds.srt.pub)
 
+(PR) Support Album Stellaris by `Animalost`
+
+https://animalost.net/
+
 ### About me
 
 - Bachelor of Architecture @ `Henan University of Technology, Department of Architecture` (2020-2025)
