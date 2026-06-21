@@ -28,7 +28,7 @@ https://ngu2nd.mpam-lab.xyz
 
 https://ngu3rd.mpam-lab.xyz
 
-- an ordinary office worker / graphic designer @ an e-commercial company, Tianjin, China (2025-now)
+- an ordinary office worker / graphic designer @ an e-commercial company, Tianjin, China (2025-2026)
 
 ### Something else
 
